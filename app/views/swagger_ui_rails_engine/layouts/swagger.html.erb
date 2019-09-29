@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Swagger ui rails engine</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+
+  <%= stylesheet_link_tag "swagger_ui_rails_engine/application", media: "all" %>
+  <%= javascript_include_tag "swagger_ui_rails_engine/application" %>
+
+</head>
+<body>
+<div id="swagger-ui"></div>
+
+<%= yield %>
+
+</body>
+</html>
