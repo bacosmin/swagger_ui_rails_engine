@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/swagger_ui_rails_engine.svg)](https://badge.fury.io/rb/swagger_ui_rails_engine)
+
 # SwaggerUiRailsEngine
 Short description and motivation.
 
